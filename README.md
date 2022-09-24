@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Sallydw97
-- 👀 I’m interested in the applation of data analytics and machine learning techniques in the fields including finance, healthcare, of policy making. 
-- 🌱 I’m currently learning data engineering and working with live data. 
+- 👋 Hi, I’m @Sallydw97, a credit portfolio manager at day, and always with a heart devoted to healthcare and public policy.
+- 👀 I’m interested in the applation of big data and machine learning to both satisfy my personal curiosity and one day make the world a better place.
+- 🌱 I’m currently learning data engineering and deep learning. 
 - 💞️ I’m looking to collaborate on anything!
 - 
 
